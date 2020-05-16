@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:admin@iharvalovich.pl"  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://www.facebook.com/cimco
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: chrome
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.cimco.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+PROAXIS Sp. z o.o. jako autoryzowany Reseler CIMCO A/S zajmujemy się profesjonalnymi usługami obejmującymi kompleksową integrację systemów klasy Computer Integrated Manufacturing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wieloletnie doświadczenie na rynku przemysłu wytwórczego, ze szczególnym uwzględnieniem zakładów wykorzystujących technologię CNC, gwarantuje najwyższą jakość oferowanych produktów oraz związanych z nimi usług wdrożeniowych
