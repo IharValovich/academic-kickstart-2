@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: PROAXIS Sp. z o.o.
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Autoryzowany Reseler CIMCO A/S
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Autoryzowany Reseler CIMCO A/S.
 
 interests:
 - Artificial Intelligence
