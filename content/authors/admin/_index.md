@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Autoryzowany Reseler CIMCO A/S.
 
-[interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval]
+#[interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval]
 
 [education:
   courses:
