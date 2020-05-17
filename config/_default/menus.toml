@@ -16,7 +16,7 @@
 [[main]]
   name = "Rozwiązania"  #my add
   url = "#projects"
-#  identifier = "project"  #my add
+  identifier = "product"  #my add
   weight = 30
 
 [[main]]
@@ -32,13 +32,15 @@
 
 [[main]]
   name = "CIMCO DNC"
+  parent = "product"   #my add
   url = "cimco/cimco-dnc"
   weight = 80
 
-  [[main]]
-    name = "CIMCO MDC-MAX"
-    url = "cimco/cimco-mdc"
-    weight = 90
+[[main]]
+  name = "CIMCO MDC-MAX"
+  parent = "product"   #my add
+  url = "cimco/cimco-mdc"
+  weight = 90
 
 
 # Link to a PDF of your resume/CV from the menu.
