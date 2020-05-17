@@ -21,9 +21,9 @@ organizations:
 bio: Autoryzowany Reseler CIMCO A/S.
 
 interests:
-- Artificial Intelligence
+[- Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Information Retrieval]
 
 education:
   courses:
