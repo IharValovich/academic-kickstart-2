@@ -14,9 +14,9 @@
   weight = 20
 
 [[main]]
-  name = "Rozwiązania CIMCO"  #my add
+  name = "Rozwiązania"  #my add
   url = "#projects"
-  identifier = "project"  #my add
+#  identifier = "project"  #my add
   weight = 30
 
 [[main]]
@@ -26,7 +26,7 @@
 
 [[main]]
   name = "Kontakt"
-  parent = "project"   #my add
+# parent = "project"   #my add
   url = "#contact"
   weight = 60
 
