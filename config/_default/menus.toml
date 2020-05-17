@@ -32,7 +32,7 @@
 
 [[main]]
   name = "New page"
-  url = "#content/cimco/demo-pages.md"
+  url = "#demo-pages"
   weight = 80
 
 
