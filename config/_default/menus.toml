@@ -32,7 +32,7 @@
 
 [[main]]
   name = "New page"
-  url = "/content/authors/demo-pages.md"
+  url = "content/"
   weight = 80
 
 
