@@ -1,6 +1,6 @@
 ---
-title: CIMCO DNC-MAX
-summary: Here we describe how to add a page to your site.
+title: Here we describe CIMCO DNC.
+summary:
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+CIMCO DNC
+CIMCO DNC
+CIMCO DNC
+CIMCO DNC
+CIMCO DNC
