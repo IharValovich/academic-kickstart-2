@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Rozwiązania CIMCO"  #my add
   url = "#projects"
   identifier = "project"  #my add
   weight = 30
