@@ -32,7 +32,7 @@
 
 [[main]]
   name = "CIMCO DNC"
-  url = "cimco/product"
+  url = "cimco/cimco-dnc"
   weight = 80
 
 
