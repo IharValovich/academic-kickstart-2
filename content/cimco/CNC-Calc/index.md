@@ -11,8 +11,10 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "calc.png"
+  image: ""
 ---
+
+{{< figure library="true" src="calc.png" title="" lightbox="true" >}}
 
 CIMCO CNC-Calc jest dodatkiem 2D CAD do CIMCO Edit posiadającym funkcjonalność umożliwiającą generowanie kodu NC w formacie ISO lub HEIDENHAIN. Bazując na konturach tworzonych przy pomocy wbudowanych narzędzi projektowania 2D lub wcześniej przygotowanych geometriach 2D wczytanych do programu poprzez format DXF, można generować kod NC dla dowolnie skomplikowanych kształtów.
 
@@ -30,4 +32,5 @@ Zalety rozwiązania
 • Szybki i intuicyjny interfejs programowania ścieżki narzędzia operacji tokarskich 2D i frezarskich 2,5D
 • Pełna integracja w ramach interfejsu CIMCO Edit
 • Generowanie kodu ISO i HEIDENHAIN
+
 {{< figure library="true" src="cimco_calc.gif" title="" lightbox="true" >}}
