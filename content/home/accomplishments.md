@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "CIMCO A/S"
 subtitle = ""
 
 # Date format
@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "CIMCO Edit Professional"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = ""
   date_end = ""
-  description = ""
+  description = "CIMCO Edit Professional jest zaawansowanym edytorem kodu NC posiadającym szeroką funkcjonalność edycji (obrót, przesunięcie, lustro, numeracja linii, widok wielokanałowy, porównywanie programów, wbudowane makra) oraz symulacji bryłowej kodu NC z możliwością definiowania narzędzi (frezowanie i toczenie)."
 
 [[item]]
   organization = "edX"
@@ -34,18 +34,18 @@ date_format = "Jan 2006"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = ""
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = ""
+  date_end = ""
   description = ""
 
 +++
