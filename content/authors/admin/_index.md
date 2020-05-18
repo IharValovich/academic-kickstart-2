@@ -60,6 +60,8 @@ user_groups:
 - Visitors
 ---
 
+{{< figure library="true" src="cimco_logo.png" title="" lightbox="true" >}}
+
 PROAXIS Sp. z o.o. jako autoryzowany Reseler CIMCO A/S zajmujemy się profesjonalnymi usługami obejmującymi kompleksową integrację systemów klasy Computer Integrated Manufacturing.
 
 Wieloletnie doświadczenie na rynku przemysłu wytwórczego, ze szczególnym uwzględnieniem zakładów wykorzystujących technologię CNC, gwarantuje najwyższą jakość oferowanych produktów oraz związanych z nimi usług wdrożeniowych
