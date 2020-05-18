@@ -1,6 +1,6 @@
 ---
-title: CIMCO MDC-MAX
-summary: Here we describe CIMCO MDC-MAX.
+title: CIMCO CNC-Calc
+summary: Here we describe CIMCO CNC-Calc.
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -13,8 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-CIMCO MDC-MAX
-CIMCO MDC-MAX
-CIMCO MDC-MAX
-CIMCO MDC-MAX
-CIMCO MDC-MAX
+CCIMCO CNC-Calc
