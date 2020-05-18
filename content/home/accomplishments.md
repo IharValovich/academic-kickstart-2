@@ -41,11 +41,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = " "
   organization_url = ""
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "CIMCO DNC-Max"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = "http://www.proaxis.pl/jwww/index.php?option=com_content&view=article&id=2&Itemid=3"
   date_start = "2020-04-20"
   date_end = ""
-  description = ""
+  description = "CIMCO DNC-Max został stworzony w celu ułatwienia pracy związanej z obsługą cyklu produkcyjnego od strony technologicznej. Zadaniem tego systemu jest wspomaganie typowych czynności wykonywanych przy tworzeniu, wdrażaniu i obsłudze technologii opierającej się na wykorzystaniu maszyn CNC."
 
+  [[item]]
+    organization = " "
+    organization_url = ""
+    title = "CIMCO DNC-Max"
+    url = ""
+    certificate_url = "http://www.proaxis.pl/jwww/index.php?option=com_content&view=article&id=2&Itemid=3"
+    date_start = "2020-04-20"
+    date_end = ""
+    description = "CIMCO DNC-Max został stworzony w celu ułatwienia pracy związanej z obsługą cyklu produkcyjnego od strony technologicznej. Zadaniem tego systemu jest wspomaganie typowych czynności wykonywanych przy tworzeniu, wdrażaniu i obsłudze technologii opierającej się na wykorzystaniu maszyn CNC."
 +++
