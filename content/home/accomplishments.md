@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
+  organization = "CIMCO Edit Professional"
+  organization_url = ""
   title = "CIMCO Edit Professional"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
   description = "CIMCO Edit Professional jest zaawansowanym edytorem kodu NC posiadającym szeroką funkcjonalność edycji (obrót, przesunięcie, lustro, numeracja linii, widok wielokanałowy, porównywanie programów, wbudowane makra) oraz symulacji bryłowej kodu NC z możliwością definiowania narzędzi (frezowanie i toczenie)."
 
 [[item]]
