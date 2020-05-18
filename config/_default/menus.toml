@@ -31,16 +31,34 @@
   weight = 60
 
 [[main]]
+  name = "CIMCO Edit"
+  parent = "product"   #my add
+  url = "cimco/edit"
+  weight = 70
+
+[[main]]
+  name = "CIMCO CNC-Calc"
+  parent = "product"   #my add
+  url = "cimco/CNC-calc"
+  weight = 80
+
+[[main]]
   name = "CIMCO DNC"
   parent = "product"   #my add
   url = "cimco/cimco-dnc"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "CIMCO MDC-MAX"
   parent = "product"   #my add
   url = "cimco/cimco-mdc"
-  weight = 90
+  weight = 100
+
+[[main]]
+  name = "CIMCO NC-Base"
+  parent = "product"   #my add
+  url = "cimco/NC-base"
+  weight = 110
 
 
 # Link to a PDF of your resume/CV from the menu.
