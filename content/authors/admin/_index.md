@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 #[interests:
 #- Artificial Intelligence
@@ -64,6 +64,6 @@ user_groups:
 
 PROAXIS Sp. z o.o. jako autoryzowany Reseler CIMCO A/S zajmujemy się profesjonalnymi usługami obejmującymi kompleksową integrację systemów klasy Computer Integrated Manufacturing.
 
-{{< figure library="true" src="cimco_logo.png" title="" lightbox="true" >}}
+Wieloletnie doświadczenie na rynku przemysłu wytwórczego, ze szczególnym uwzględnieniem zakładów wykorzystujących technologię CNC, gwarantuje najwyższą jakość oferowanych produktów oraz związanych z nimi usług wdrożeniowych.
 
-Wieloletnie doświadczenie na rynku przemysłu wytwórczego, ze szczególnym uwzględnieniem zakładów wykorzystujących technologię CNC, gwarantuje najwyższą jakość oferowanych produktów oraz związanych z nimi usług wdrożeniowych
+{{< figure library="true" src="cimco_logo.png" title="" lightbox="true" >}}
