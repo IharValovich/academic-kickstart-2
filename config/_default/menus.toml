@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Rozwiązania"  #my add
-  url = "#projects"
+  url = "#about"
   identifier = "product"  #my add
   weight = 30
 
