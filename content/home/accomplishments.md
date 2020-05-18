@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = " " 
+  organization = " "
   organization_url = ""
   title = "CIMCO Edit Professional"
   url = "http://www.proaxis.pl/jwww/index.php?option=com_content&view=article&id=3&Itemid=2"
@@ -29,23 +29,23 @@ date_format = "Jan 2006"
   description = "CIMCO Edit Professional jest zaawansowanym edytorem kodu NC posiadającym szeroką funkcjonalność edycji (obrót, przesunięcie, lustro, numeracja linii, widok wielokanałowy, porównywanie programów, wbudowane makra) oraz symulacji bryłowej kodu NC z możliwością definiowania narzędzi (frezowanie i toczenie)."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = " "
+  organization_url = ""
+  title = "CIMCO CNC-Calc"
+  url = "http://www.proaxis.pl/jwww/index.php?option=com_content&view=article&id=6&Itemid=43"
+  certificate_url = ""
+  date_start = "2020-04-20"
+  date_end = ""
+  description = "CIMCO CNC-Calc jest dodatkiem 2D CAD do CIMCO Edit posiadającym funkcjonalność umożliwiającą generowanie kodu NC w formacie ISO lub HEIDENHAIN. Bazując na konturach tworzonych przy pomocy wbudowanych narzędzi projektowania 2D lub wcześniej przygotowanych geometriach 2D wczytanych do programu poprzez format DXF, można generować kod NC dla dowolnie skomplikowanych kształtów."
 
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
+  organization = " "
+  organization_url = ""
   title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-01-01"
-  date_end = "2017-01-01"
+  date_start = "2020-04-20"
+  date_end = ""
   description = ""
 
 +++
