@@ -13,4 +13,4 @@ header:
   caption: ""
   image: ""
 ---
-CCIMCO CNC-Calc
+CIMCO CNC-Calc
