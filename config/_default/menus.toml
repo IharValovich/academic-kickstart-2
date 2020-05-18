@@ -31,13 +31,13 @@
   weight = 60
 
 [[main]]
-  name = <i class="fas fa-angle-down"></i> "CIMCO Edit"
+  name = "CIMCO Edit"
   parent = "product"   #my add
   url = "cimco/edit"
   weight = 70
 
 [[main]]
-  name = "#CIMCO CNC-Calc"
+  name = "CIMCO CNC-Calc"
   parent = "product"   #my add
   url = "cimco/CNC-calc"
   weight = 80
