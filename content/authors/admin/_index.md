@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Autoryzowany Reseler
+role: Autoryzowany Reseler CIMCO A/S
 
 # Organizations/Affiliations
 organizations:
-- name: CIMCO A/S
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Autoryzowany Reseler CIMCO A/S.
+bio: 
 
 #[interests:
 #- Artificial Intelligence
