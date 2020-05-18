@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "CIMCO A/S"
 subtitle = ""
 
 # Date format for experience
@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   company = "GenCoin"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = ""
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
