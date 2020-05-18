@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "CIMCO Edit Professional"
   organization_url = ""
-  title = "CIMCO Edit Professional"
+  title = "CIMCO A/S"
   url = ""
   certificate_url = ""
   date_start = "2020-01-01"
