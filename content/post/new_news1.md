@@ -3,12 +3,10 @@ date: 2020-18-05
 title: Aktualnie dostępna nowa wersja oprogramowania  CIMCO v.8.07!
 ---
 
-## **NOWA WERSJA**
-### **oprogramowania CIMCO v.8.07**
-**Zapraszamy do przetestowania najlepszego**
-**na rynku edytora kodu NC**
-
-**oraz systemu do zarządzania programami NC**
+## <div align="center"> **NOWA WERSJA**
+### <div align="center"> **oprogramowania CIMCO v.8.07**
+**<div align="center"> Zapraszamy do przetestowania najlepszego
+na rynku edytora kodu NC oraz systemu do zarządzania programami NC**
 
 
 
