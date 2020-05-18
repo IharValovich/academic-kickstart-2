@@ -60,12 +60,10 @@ user_groups:
 - Visitors
 ---
 
-
+{{< figure library="true" src="cimco_logo.png" title="" lightbox="true" >}}
 
 PROAXIS Sp. z o.o. jako autoryzowany Reseler CIMCO A/S zajmujemy się profesjonalnymi usługami obejmującymi kompleksową integrację systemów klasy Computer Integrated Manufacturing.
-
 Wieloletnie doświadczenie na rynku przemysłu wytwórczego, ze szczególnym uwzględnieniem zakładów wykorzystujących technologię CNC, gwarantuje najwyższą jakość oferowanych produktów oraz związanych z nimi usług wdrożeniowych.
-{{< figure library="true" src="cimco_logo.png" title="" lightbox="true" >}}
 Pakiet profesjonalnych rozwiązań CIMCO Integration obejmuje wszystkie aspekty wsparcia kluczowych działań związanych z przygotowaniem i obsługą cyklu życia technologii CNC oraz szeroko pojętą integracją parku maszynowego w ramach zakładowych sieci informatycznych.
 {{< figure library="true" src="front_integration.png" title="" lightbox="true" >}}
 Zarówno standardowe jak i dedykowane dla specyficznych układów sterowania CNC rozwiązania software'owe umożliwiają elastyczną budowę zintegrowanego systemu wspomagania procesu produkcyjnego obejmującego typowe obszary działania:
