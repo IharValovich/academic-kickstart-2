@@ -1,6 +1,6 @@
 ---
 date: 2020-18-05
-title: <div align="center"> Aktualnie dostępna nowa wersja oprogramowania  CIMCO v.8.07!
+title: Aktualnie dostępna nowa wersja oprogramowania  CIMCO v.8.07!
 ---
 
 ## <div align="center"> **NOWA WERSJA**
