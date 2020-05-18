@@ -67,3 +67,20 @@ PROAXIS Sp. z o.o. jako autoryzowany Reseler CIMCO A/S zajmujemy się profesjona
 Wieloletnie doświadczenie na rynku przemysłu wytwórczego, ze szczególnym uwzględnieniem zakładów wykorzystujących technologię CNC, gwarantuje najwyższą jakość oferowanych produktów oraz związanych z nimi usług wdrożeniowych.
 {{< figure library="true" src="cimco_logo.png" title="" lightbox="true" >}}
 Pakiet profesjonalnych rozwiązań CIMCO Integration obejmuje wszystkie aspekty wsparcia kluczowych działań związanych z przygotowaniem i obsługą cyklu życia technologii CNC oraz szeroko pojętą integracją parku maszynowego w ramach zakładowych sieci informatycznych.
+{{< figure library="true" src="front_integration.png" title="" lightbox="true" >}}
+Zarówno standardowe jak i dedykowane dla specyficznych układów sterowania CNC rozwiązania software'owe umożliwiają elastyczną budowę zintegrowanego systemu wspomagania procesu produkcyjnego obejmującego typowe obszary działania:
+
+- Generowanie kodu NC
+- Edycję, walidację i symulację kodu NC
+- Zarządzanie danymi NC
+- Scentralizowaną transmisję danych na dowolne układy sterowania maszyn CNC
+- Gromadzenie i raportowanie danych produkcyjnych
+
+Ścisła współpraca CIMCO Integration z wiodącymi na rynku producentami układów sterowania umożliwia zaimplementowanie specjalizowanych rozwiązań dla sterowników takich, jak:
+
+- HEIDENHAIN
+- MAZAK
+- Dialog
+- Fagor
+
+Wyjątkowa elastyczność architektury oraz ciągły rozwój funkcjonalności produktów stanowią o pozycji rozwiązań CIMCO Integration na czele dostępnych na rynku zintegrowanych systemów klasy Computer Integrated Manufacturing.
