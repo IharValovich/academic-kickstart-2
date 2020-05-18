@@ -57,4 +57,14 @@ date_format = "Jan 2006"
     date_start = "2020-04-20"
     date_end = ""
     description = "CIMCO MDC-Max jest zintegrowanym systemem gromadzenia i raportowania danych produkcyjnych parku maszynowego. Umożliwia zarówno bieżące raportowanie wartości charakterystycznych dla wydajności maszyny lub grupy maszyn, jak również raportowanie wielkości historycznych, takich jak: bilans pracy maszyny, min/max/średni czas cyklu, współczynniki OEE i inne."
+
+    [[item]]
+      organization = " "
+      organization_url = ""
+      title = "CIMCO NC-Base"
+      url = "http://www.proaxis.pl/jwww/index.php?option=com_content&view=article&id=9&Itemid=4"
+      certificate_url = ""
+      date_start = "2020-04-20"
+      date_end = ""
+      description = "CIMCO NC-Base jest systemem służącym do zarządzania i katalogowania programów NC wraz z dokumentacją produkcyjną powiązaną (rysunki CAD, dokumentację pdf, pliki Word, pliki Excel, zdjęcia itp.)."
 +++
