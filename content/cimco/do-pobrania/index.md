@@ -15,4 +15,4 @@ header:
 ---
 
 {{< figure library="true" src="cimco-products.jpg" title="" lightbox="true" >}}
-{{% staticref "files/PL--Brochure-CIMCO_Products.pdf" "newtab" %}}Download Brochure CIMCO Products{{% /staticref %}}
+{{% staticref "files/Brochure-CIMCO-Products.pdf" "newtab" %}}Download Brochure CIMCO Products{{% /staticref %}}
