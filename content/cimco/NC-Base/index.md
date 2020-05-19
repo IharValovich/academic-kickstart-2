@@ -31,7 +31,7 @@ Warstwa zarządzająca umożliwia wykonywanie zadanych czynności edycyjnych, we
 * Możliwość zaimplementowania warstwy zarządzającej dostępem do edycji, modyfikacji i akceptacji danych NC oraz dokumentacji powiązanej na podstawie uprawnień użytkowników
 * Pełna integracja z interfejsem CIMCO Edit oraz systemem transmisji danych CIMCO DNC.
 * Otwarta baza danych SQL umożliwiająca integrację z innymi systemami w przedsiębiorstwie
-{{< figure library="true" src="nc-base-02.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="cimco-nc-base-02.jpg" title="" lightbox="true" >}}
 **Zalety rozwiązania**
 * Centralne repozytorium danych NC i dokumentacji powiązanej
 * Bezpieczeństwo danych oraz dostęp według nadanych uprawnień
