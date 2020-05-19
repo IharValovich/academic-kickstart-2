@@ -14,7 +14,5 @@ header:
   image: ""
 ---
 
+{{< figure library="true" src="cimco-products.jpg" title="CIMCO CNC-Calc" lightbox="true" >}}
 {{% staticref "files/PL--Brochure-CIMCO_Products.pdf" "newtab" %}}Download Brochure CIMCO Products{{% /staticref %}}
-
-
-{{< figure library="true" src="cimco_calc.gif" title="CIMCO CNC-Calc" lightbox="true" >}}
