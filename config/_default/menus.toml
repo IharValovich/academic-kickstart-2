@@ -43,19 +43,19 @@
   weight = 80
 
 [[main]]
-  name = "#CIMCO DNC-MAX"
+  name = "CIMCO DNC-MAX"
   parent = "product"   #my add
   url = "cimco/cimco-dnc"
   weight = 90
 
 [[main]]
-  name = "#CIMCO MDC-MAX"
+  name = "CIMCO MDC-MAX"
   parent = "product"   #my add
   url = "cimco/cimco-mdc"
   weight = 100
 
 [[main]]
-  name = "#CIMCO NC-Base"
+  name = "CIMCO NC-Base"
   parent = "product"   #my add
   url = "cimco/NC-base"
   weight = 110
