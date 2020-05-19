@@ -13,8 +13,5 @@ header:
   caption: ""
   image: ""
 ---
-CIMCO MDC-MAX
-CIMCO MDC-MAX
-CIMCO MDC-MAX
-CIMCO MDC-MAX
-CIMCO MDC-MAX
+{{< figure library="true" src="dnc.png" title="" lightbox="true" >}}
+{{< figure library="true" src="monitor-shopfloor.png" title="" lightbox="true" >}}
