@@ -21,7 +21,7 @@
 
 [[main]]
   name = "Do pobrania"
-  url = "#featured"
+  url = "cimco/do-pobrania"
   weight = 40
 
 [[main]]
