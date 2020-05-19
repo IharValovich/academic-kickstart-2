@@ -44,9 +44,9 @@ System umożliwia monitorowanie poprzez sieć Ethernet maszyn ze sterowaniem:
 
 **Metody zbierania statusów pracy w CIMCO MDC-Max**
 
-* automatyczne, oparte na sygnałach pochodzących ze sterowań maszyn
+1. automatyczne, oparte na sygnałach pochodzących ze sterowań maszyn
 {{< figure library="true" src="cimco-mdc-sie.jpg" title="Podłączenie maszyn w sieć - rozwiązanie oparte na sieci LAN" lightbox="true" >}}
-* manualne, oparte na wprowadzaniu statusów pracy maszyn, operatorów za pomocą paneli operatorskich
+2. manualne, oparte na wprowadzaniu statusów pracy maszyn, operatorów za pomocą paneli operatorskich
 {{< figure library="true" src="cimco-mdc-panel-operatorski.jpg" title="Przykładowy panel operatorski" lightbox="true" >}}
-* manualne, oparte na wprowadzaniu statusów pracy maszyn, operatorów za pomocą kodów kreskowych
+3. manualne, oparte na wprowadzaniu statusów pracy maszyn, operatorów za pomocą kodów kreskowych
 {{< figure library="true" src="cimco-mdc-skaner.jpg" title="Przykładowe kody kreskowe" lightbox="true" >}}
