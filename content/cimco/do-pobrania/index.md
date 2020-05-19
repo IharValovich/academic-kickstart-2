@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-##Materiały informacyjne##
+## Materiały informacyjne
 {{< figure library="true" src="cimco-products.jpg" title="" lightbox="true" >}}
 {{% staticref "files/Brochure-CIMCO-Products.pdf" "newtab" %}}Pobierz broszurę Produkty CIMCO{{% /staticref %}}
 {{< figure library="true" src="cimco-edit-6-en-web.jpg" title="" lightbox="true" >}}
