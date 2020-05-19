@@ -43,4 +43,4 @@ _Wsparcie dla kodu ISO i HEIDENHAIN._
 **Symulator graficzny**
 
 Graficzny symulator frezowania 3D / toczenia 2D obsługuje krokową, płynną oraz wsteczną symulację kodu NC. Każda edycja fragmentu kodu natychmiast zmienia symulowaną ścieżkę narzędzia. Ponadto program posiada narzędzia do dynamicznego powiększania, przesuwania i obrotu widoku oraz funkcje pomiarowe. CIMCO Edit Professional wspiera symulację bryłową z równoczesnym wykrywaniem kolizji oprawki i podcięć.
-{{< figure library="true" src="cimco-edit-2.jpg" title="Cimco EDIT" lightbox="true" >}}
+{{< figure library="true" src="cimco-edit-2.jpg" title="CIMCO Edit 8.0" lightbox="true" >}}
