@@ -21,8 +21,8 @@ header:
 {{< figure library="true" src="cimco-cnc-calc-6-en-web.jpg" title="" lightbox="true" >}}
 {{% staticref "files/PL-CIMCO-CNC-Calc.pdf" "newtab" %}}Pobierz broszurę CIMCO CNC Calc{{% /staticref %}}
 {{< figure library="true" src="cimco-dnc-max-6-en-web.jpg" title="" lightbox="true" >}}
-{{% staticref "files/PL-CIMCO-DNC-Max.pdf" "newtab" %}}Pobierz broszurę CIMCO Edit{{% /staticref %}}
+{{% staticref "files/PL-CIMCO-DNC-Max.pdf" "newtab" %}}Pobierz broszurę CIMCO DNC-MAX{{% /staticref %}}
 {{< figure library="true" src="cimco-mdc-max-6-en-web.jpg" title="" lightbox="true" >}}
-{{% staticref "files/PL-CIMCO-MDC-Max.pdf" "newtab" %}}Pobierz broszurę CIMCO Edit{{% /staticref %}}
+{{% staticref "files/PL-CIMCO-MDC-Max.pdf" "newtab" %}}Pobierz broszurę CIMCO MDC-MAX{{% /staticref %}}
 {{< figure library="true" src="cimco-nc-base-6-en-web.jpg" title="" lightbox="true" >}}
-{{% staticref "files/PL-CIMCO-NC-Base.pdf" "newtab" %}}Pobierz broszurę CIMCO Edit{{% /staticref %}}
+{{% staticref "files/PL-CIMCO-NC-Base.pdf" "newtab" %}}Pobierz broszurę CIMCO NC-Base{{% /staticref %}}
