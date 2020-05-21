@@ -28,6 +28,10 @@ header:
 [CIMCO Software ver. 8.07](https://www.cimco.com/download/registration/?p=software&v=8.07.15&rid=22318)
 ## **Pobierz wersja DEMO z instalatorem CIMCO Server, CIMCO DNC, CIMCO MDC**
 
+**WYMAGANIA: System operacyjny WINDOWS 7 lub wyższy**
+
+**UWAGA!: Oprogramowanie nie jest wspierane dla systemu operacyjnego WINDOWS XP lub niższy**
+
 
 
 
