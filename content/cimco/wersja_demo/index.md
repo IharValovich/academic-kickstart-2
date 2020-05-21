@@ -24,17 +24,16 @@ header:
 
 #### Oprogramowanie jest w pełni funkcjonalne przez 30 dni.
 
-### ----------
-Instalator tylko oprogramowania CIMCO Edit wraz z dostępnymi dodatkami: CIMCO CNC-Calc, Symulatorem ścieżki narzędzi, zaawansowane funkcje NC, CIMCO NC-Bace oraz przeglądarkę plików MAZATROL proszę pobrać z poniższego linku
 
-[**Pobierz wersję DEMO** CIMCO Edit Professional ver. 8.07](https://www.cimco.com/download/registration/?p=edit&v=8.07.15&rid=22318)
+> Instalator tylko oprogramowania CIMCO Edit wraz z dostępnymi dodatkami: CIMCO CNC-Calc, Symulatorem ścieżki narzędzi, zaawansowane funkcje NC, CIMCO NC-Bace oraz przeglądarkę plików MAZATROL proszę pobrać z poniższego linku
 
-### ----------
-Wersja z instalatorem CIMCO Server, CIMCO DNC, CIMCO MDC
+>[**Pobierz wersję DEMO** CIMCO Edit Professional ver. 8.07](https://www.cimco.com/download/registration/?p=edit&v=8.07.15&rid=22318)
 
+
+> Wersja z instalatorem CIMCO Server, CIMCO DNC, CIMCO MDC
 [**Pobierz wersja DEMO CIMCO Software ver. 8.07 z instalatorem CIMCO Server, CIMCO DNC, CIMCO MDC**](https://www.cimco.com/download/registration/?p=software&v=8.07.15&rid=22318)
 
-### ----------
+
 
 
 WYMAGANIA: System operacyjny WINDOWS 7 lub wyższy
