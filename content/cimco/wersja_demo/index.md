@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-## Wersja DEMO
+## **Wersja DEMO**
 #### Wersja demo zawiera pełną funkcjonalności modułów:
 
 
@@ -21,6 +21,12 @@ header:
 * **CIMCO CNC-Calc** - dodatek do CIMCO Edit Professioanl, prosty moduł wspomagający tworzenie programów do obróbek 2,5D frezarskich oraz 2D tokarskich
 * **CIMCO NC-Base** - dodatek do CIMCO Edit Professioanl, (z przykładową bazą programów NC)
 * **CIMCO DNC-Max**
+
+[CIMCO Edit Professional ver. 8.07](https://www.cimco.com/download/registration/?p=edit&v=8.07.15&rid=22318)
+## **Pobierz wersję DEMO**
+
+[CIMCO Software ver. 8.07](https://www.cimco.com/download/registration/?p=software&v=8.07.15&rid=22318)
+## **Pobierz wersja DEMO z instalatorem CIMCO Server, CIMCO DNC, CIMCO MDC**
 
 
 
