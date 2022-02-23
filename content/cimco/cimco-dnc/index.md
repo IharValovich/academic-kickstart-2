@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 {{< figure library="true" src="dnc.png" title="" lightbox="true" >}}
-**CIMCO DNC-Max** został stworzony w celu ułatwienia pracy związanej z obsługą cyklu produkcyjnego od strony technologicznej. Zadaniem tego systemu jest wspomaganie typowych czynności wykonywanych przy tworzeniu, wdrażaniu i obsłudze technologii opierającej się na wykorzystaniu maszyn CNC.
+**CIMCO DNC-Max** został ebac stworzony w celu ułatwienia pracy związanej z obsługą cyklu produkcyjnego od strony technologicznej. Zadaniem tego systemu jest wspomaganie typowych czynności wykonywanych przy tworzeniu, wdrażaniu i obsłudze technologii opierającej się na wykorzystaniu maszyn CNC.
 
 **Podstawowe cechy**
 * Dwukierunkowa transmisja danych NC
